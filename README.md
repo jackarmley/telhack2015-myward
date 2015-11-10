@@ -1,6 +1,6 @@
 # MyWard
 
-A project to help improve medical education.
+A fun, interactive and educational learning tool for medical students.
 
 Made over the course of 48 hours as part of TELHack 2015 6-8 November 2015
 
